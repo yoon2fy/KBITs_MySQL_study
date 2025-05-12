@@ -4,7 +4,7 @@
 ---
 
 ## Q2. employees.sql 파일을 이용하여 테스트 데이터를 구축하세요.
-![image](./01_mysql_basic_answer)
+![image](./01_mysql_basic_answer.png)
 
 ```cmd
 cd employees
