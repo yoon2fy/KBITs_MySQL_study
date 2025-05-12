@@ -1,2 +1,21 @@
 # KBITs_MySQL_study
 This repository is a check list which is the third term practices in KB IT's your life program.
+- 2025.05.12 - tildate
+- complete: ☑, uncomplete: ☐
+- Base: 기본 문제, Deep: 심화문제
+
+---
+
+## 01 MySQL (과제)
+| 항목 | 디렉토리 명 | 기본 | 심화 | 
+|------|:----:|:----:|:----:|
+| 01 | [01_mysql]() | ☐ | ☐ |
+| 02 | [02_mysql]() | ☐ | ☐ |
+| 03 | [03_mysql]() | ☐ | ☐ |
+| 04 | [04_mysql]() | ☐ | ☐ |
+| 05 | [05_mysql]() | ☐ | ☐ |
+| 06 | [06_mysql]() | ☐ | ☐ |
+| 07 | [07_mysql]() | ☐ | ☐ |
+| 08 | [08_mysql]() | ☐ | ☐ |
+| 09 | [09_mysql]() | ☐ | ☐ |
+| 10 | [10_mysql]() | ☐ | ☐ |
