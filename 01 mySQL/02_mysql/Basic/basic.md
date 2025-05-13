@@ -48,7 +48,6 @@ INSERT INTO `shopdb`.`membertbl` (`memberID`, `memberName`, `memberAddress`) VAL
 ```
 
 ○ productTBL
-![image](./02_basic_q3_2.png)
 
 ```sql
 INSERT INTO `shopdb`.`producttbl` (`productName`, `cost`, `makeDate`, `company`, `amount`) VALUES ('컴퓨터', '10', '2021-01-01', '삼성', '17');
@@ -77,13 +76,18 @@ DELETE FROM `shopdb`.`membertbl` WHERE (`memberID` = 'Yang');
 **Q6.** SQL 편집창을 띄워서 SQL 문으로 다음을 실행하세요.
 
 ○ productTBL 의 데이터를 출력하세요
-
 ○ memberTBL 의 데이터를 출력하세요. (단, memberName과 memberAddress만 출력함)
-
 ○ memberTBL 의 데이터 중 이름이 지운이 인 데이터만 출력하세요
-
 ○ 앞에서 작성한 3 개의 SQL 문을 한 번에 실행하세요
 
+```sql
+SELECT *
+FROM shopdb.producttbl;
 
+SELECT memberName, memberAddress
+FROM shopdb.memberTBL;
 
-
+SELECT *
+FROM shopdb.memberTBL
+WHERE memberName = '지운이';
+```
