@@ -9,8 +9,8 @@ This repository is a check list which is the third term practices in KB IT's you
 ## 01 MySQL (과제)
 | 항목 | 디렉토리 명 | 기본 | 심화 | 
 |------|:----:|:----:|:----:|
-| 01 | [01_mysql](https://github.com/yoon2fy/KBITs_MySQL_study/blob/main/01%20mySQL/01_mysql/Basic/basic.md) | ☑ | ☐ |
-| 02 | [02_mysql]() | ☐ | ☐ |
+| 01 | [01_mysql](https://github.com/yoon2fy/KBITs_MySQL_study/blob/main/01%20mySQL/01_mysql/Basic/basic.md) | ☑ | ☑ |
+| 02 | [02_mysql](https://github.com/yoon2fy/KBITs_MySQL_study/tree/main/01%20mySQL/02_mysql)                | ☑ | ☑ |
 | 03 | [03_mysql]() | ☐ | ☐ |
 | 04 | [04_mysql]() | ☐ | ☐ |
 | 05 | [05_mysql]() | ☐ | ☐ |
