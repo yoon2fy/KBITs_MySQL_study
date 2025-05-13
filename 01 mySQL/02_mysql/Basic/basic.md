@@ -1,14 +1,14 @@
 # MySQL 전체 운영 실습
 **Q1.** 워크벤치의 GUI를 이용하여 shopdb 데이터베이스를 정의하세요. 작성 결과를 화면 캡처 하세요.
 
-![image](./02_basic_q1)
+![image](./02_basic_q1.png)
 
 ---
 **Q2.** 워크벤치의 GUI를 이용하여 다음 테이블을 정의하세요. 작성 결과를 화면 캡처 하세요.
 
 ○ 회원 테이블(memberTBL) 정의
 
-![image](./02_basic_q2_1)
+![image](./02_basic_q2_1.png)
 
 ```sql
 CREATE TABLE `shopdb`.`membertbl` (
@@ -21,7 +21,7 @@ CREATE TABLE `shopdb`.`membertbl` (
 
 ○ 제품 테이블(productTBL) 정의
 
-![image](./02_basic_q2_2)
+![image](./02_basic_q2_2.png)
 
 ```sql
 CREATE TABLE `shopdb`.`producttbl` (
@@ -37,7 +37,7 @@ CREATE TABLE `shopdb`.`producttbl` (
 **Q3.** 워크벤치의 GUI를 이용하여 다음 테이블에 데이터를 추가하세요. 작성 결과를 화면 캡처 하세요.
 ○ memberTBL
 
-![image](./02_basic_q3_1)
+![image](./02_basic_q3_1.png)
 
 ```sql
 INSERT INTO `shopdb`.`membertbl` (`memberID`, `memberName`, `memberAddress`) VALUES ('Dang', '당탕이', '경기 부천시 중동');
@@ -48,7 +48,7 @@ INSERT INTO `shopdb`.`membertbl` (`memberID`, `memberName`, `memberAddress`) VAL
 ```
 
 ○ productTBL
-![image](./02_basic_q3_2)
+![image](./02_basic_q3_2.png)
 
 ```sql
 INSERT INTO `shopdb`.`producttbl` (`productName`, `cost`, `makeDate`, `company`, `amount`) VALUES ('컴퓨터', '10', '2021-01-01', '삼성', '17');
@@ -59,7 +59,7 @@ INSERT INTO `shopdb`.`producttbl` (`productName`, `cost`, `makeDate`, `company`,
 ---
 **Q4.** 워크벤치의 GUI를 이용하여 memberTBL에 데이터를 하나 추가하세요. 작성 결과를 화면 캡처 하세요.
 
-![image](./02_basic_q4_1)
+![image](./02_basic_q4_1.png)
 
 ```sql
 INSERT INTO `shopdb`.`membertbl` (`memberID`, `memberName`, `memberAddress`) VALUES ('Yang', '지윤이', '서울 송파구 송파동');
@@ -67,7 +67,7 @@ INSERT INTO `shopdb`.`membertbl` (`memberID`, `memberName`, `memberAddress`) VAL
 
 **Q5.** 앞에서 추가한 데이터를 삭제하세요. 작성 결과를 화면 캡처 하세요.
 
-![image](./02_basic_q4_2)
+![image](./02_basic_q4_2.png)
 
 ```sql
 DELETE FROM `shopdb`.`membertbl` WHERE (`memberID` = 'Yang');
