@@ -27,9 +27,9 @@ This repository is a check list which is the third term practices in KB IT's you
 ### 📖 Part 01 MySQL 설치 및 구축과정 미리 실습하기
 |chapter|단원명|체크|완료일자|
 |:-:|-|:-:|:-:|
-|01|[DBMS 개요와 MySQL 소개](https://github.com/yoon2fy/KBITs_MySQL_study/blob/main/02%20mySQL/Ch01_introduction.md)| ☑ | 2025-05-14 |
-|02|[MySQL 설치]()            | ☑ | 2025-05-14 |
-|03|[MySQL 전체 운영 실습]()   | ☑ | 2025-05-14 |
+|01|[DBMS 개요와 MySQL 소개](https://github.com/yoon2fy/KBITs_MySQL_study/blob/main/02%20mySQL/Ch01_introduction.md)    | ☑ | 2025-05-14 |
+|02|[MySQL 설치](https://github.com/yoon2fy/KBITs_MySQL_study/blob/main/02%20mySQL/Ch02_install.md)                    | ☑ | 2025-05-14 |
+|03|[MySQL 전체 운영 실습](https://github.com/yoon2fy/KBITs_MySQL_study/blob/main/02%20mySQL/Ch03_overallPractice.md)   | ☑ | 2025-05-14 |
 
 ### 📖 Part 02 MySQL 설치 및 구축과정 미리 실습하기
 |chapter|단원명|체크|완료일자|
