@@ -11,7 +11,7 @@ This repository is a check list which is the third term practices in KB IT's you
 |------|:----:|:----:|:----:|
 | 01 | [01_mysql](https://github.com/yoon2fy/KBITs_MySQL_study/blob/main/01%20mySQL/01_mysql) | ☑ | ☑ |
 | 02 | [02_mysql](https://github.com/yoon2fy/KBITs_MySQL_study/tree/main/01%20mySQL/02_mysql) | ☑ | ☑ |
-| 03 | [03_mysql](https://github.com/yoon2fy/KBITs_MySQL_study/tree/main/01%20mySQL/03_mySQL) | ☑ | ☐ |
+| 03 | [03_mysql](https://github.com/yoon2fy/KBITs_MySQL_study/tree/main/01%20mySQL/03_mySQL) | ☑ | ☑ |
 | 04 | [04_mysql]() | ☐ | ☐ |
 | 05 | [05_mysql]() | ☐ | ☐ |
 | 06 | [06_mysql]() | ☐ | ☐ |
@@ -34,9 +34,9 @@ This repository is a check list which is the third term practices in KB IT's you
 ### 📖 Part 02 MySQL 설치 및 구축과정 미리 실습하기
 |chapter|단원명|체크|완료일자|
 |:-:|-|:-:|:-:|
-|04|데이터베이스 모델링  | ☐ |  |
-|05|MySQL 유틸리티 사용법| ☐ |  |
-|06|SQL 기본             | ☐ |  |
+|04|[데이터베이스 모델링](https://github.com/yoon2fy/KBITs_MySQL_study/blob/main/02%20mySQL/Ch04_dbModeling.md)    | ☑ | 2025-05-15 |
+|05|[MySQL 유틸리티 사용법](https://github.com/yoon2fy/KBITs_MySQL_study/blob/main/02%20mySQL/Ch05_mysqlUtility.md)| ☑ | 2025-05-15 |
+|06|[SQL 기본](https://github.com/yoon2fy/KBITs_MySQL_study/blob/main/02%20mySQL/Ch06_sqlBasic.md)                | ☑ | 2025-05-15 |
 |07|SQL 고급             | ☐ |  |
 
 ### 📖 Part 03 MySQL 고급
