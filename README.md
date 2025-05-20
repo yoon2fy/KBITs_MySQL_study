@@ -13,7 +13,7 @@ This repository is a check list which is the third term practices in KB IT's you
 | 02 | [02_mysql](https://github.com/yoon2fy/KBITs_MySQL_study/tree/main/01%20mySQL/02_mysql) | ☑ | ☑ |
 | 03 | [03_mysql](https://github.com/yoon2fy/KBITs_MySQL_study/tree/main/01%20mySQL/03_mySQL) | ☑ | ☑ |
 | 04 | [04_mysql](https://github.com/yoon2fy/KBITs_MySQL_study/tree/main/01%20mySQL/04_mysql) | ☑ | ☑ |
-| 05 | [05_mysql]() | ☐ | ☐ |
+| 05 | [05_mysql](https://github.com/yoon2fy/KBITs_MySQL_study/tree/main/01%20mySQL/05_mysql) | ☑ | ☑ |
 | 06 | [06_mysql]() | ☐ | ☐ |
 | 07 | [07_mysql]() | ☐ | ☐ |
 | 08 | [08_mysql]() | ☐ | ☐ |
