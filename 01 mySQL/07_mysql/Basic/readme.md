@@ -37,7 +37,58 @@ JUnit5를 이용해 DB 연결 테스트 수행
 
 </br>
 
+/* 07_mysql(기본) JDBC 프로그래밍
+-- JY let's go
+
+[문제 2] 자바 프로젝트를 생성하세요.
+o Name: jdbc_ex
+o Build systenL gradle
+o 의존성
+ - lombok
+ - mysql-connector-j
+o Annotation Processing 활성화
+ */
+
+</br>
+
 ## ✅ 실행 방법
+
 1. application.properties 내 DB 접속 정보를 본인 환경에 맞게 설정
 2. 프로젝트에서 JUnit 테스트 실행
 3. 콘솔에 "DB 연결 성공" 메시지가 출력되면 성공
+
+</br>
+
+## 🐘 build.gradle
+
+```java
+plugins {
+    id 'java'
+}
+
+group = 'org.scoula'
+version = '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation 'com.mysql:mysql-connector-j:8.3.0'
+    compileOnly 'org.projectlombok:lombok:1.18.30'
+    annotationProcessor 'org.projectlombok:lombok:1.18.30'
+
+    testCompileOnly 'org.projectlombok:lombok:1.18.30'
+    testAnnotationProcessor 'org.projectlombok:lombok:1.18.30'
+
+    testImplementation platform('org.junit:junit-bom:5.10.0')
+    testImplementation 'org.junit.jupiter:junit-jupiter'
+}
+
+test {
+    useJUnitPlatform()
+}
+```
+
+</br>
+
