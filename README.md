@@ -55,3 +55,10 @@ This repository is a check list which is the third term practices in KB IT's you
 |14|MySQL과 공간 데이터          | ☐ |  |
 |15|파이썬과 MySQL 응용 프로그래밍| ☐ |  |
 
+### 📖 Part 05 수업시간 내용 정리
+|chapter|단원명|체크|완료일자|
+|:-:|-|:-:|:-:|
+|20|JDBC 프로그래밍| ☐ |  |
+|21|JUnit5| ☐ |  |
+
+
