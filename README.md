@@ -6,7 +6,7 @@ This repository is a check list which is the third term practices in KB IT's you
 
 ---
 
-## 01 MySQL (과제)
+## 01 MySQL (complete ! ✌😼)
 | 항목 | 디렉토리 명 | 기본 | 심화 | 
 |------|:----:|:----:|:----:|
 | 01 | [01_mysql](https://github.com/yoon2fy/KBITs_MySQL_study/blob/main/01%20mySQL/01_mysql) | ☑ | ☑ |
@@ -18,4 +18,10 @@ This repository is a check list which is the third term practices in KB IT's you
 | 07 | [07_mysql](https://github.com/yoon2fy/KBITs_MySQL_study/tree/main/01%20mySQL/07_mysql) | ☑ | ☑ |
 | 08 | [08_mysql](https://github.com/yoon2fy/KBITs_MySQL_study/tree/main/01%20mySQL/08_mysql) | ☑ | ☑ |
 
+---
 
+## 02 MongoDB
+
+| 항목 | 디렉토리 명 | 기본 | 심화 | 
+|------|:----:|:----:|:----:|
+| 01 |  | ☐ | ☐ |
