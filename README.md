@@ -24,7 +24,7 @@ This repository is a check list which is the third term practices in KB IT's you
 
 | 항목 | 디렉토리 명 | 기본 | 심화 | 
 |------|:----:|:----:|:----:|
-| 01 | [01_mongo](https://github.com/yoon2fy/KBITs_MySQL_study/tree/main/02%20MongoDB/01_mongo) | ☑ | ☐ |
+| 01 | [01_mongo](https://github.com/yoon2fy/KBITs_MySQL_study/tree/main/02%20MongoDB/01_mongo) | ☑ | ☑ |
 | 02 |  | ☐ | ☐ |
 | 03 |  | ☐ | ☐ |
 | 04 |  | ☐ | ☐ |
